@@ -1,3 +1,4 @@
+-[[ v2.1.2 [BETA] https://wearedevs.net/obfuscator]]
 local jlji11i=(getfenv and getfenv(1)) or _ENV or _G
 local LjijII0Ilo,LooIlloL1OOLo0=string.byte,string.char
 local function lo1oLljl(lio0O10OO,joj0jI1lLli1l1)
