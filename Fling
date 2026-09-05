@@ -1,4 +1,4 @@
--- hide.lat / maximum / 50ce445d1f45
+--[[ v2.1.2 [BETA] https://wearedevs.net/obfuscator]] 
 local j11oOl1Li0iOl=(getfenv and getfenv(1)) or _ENV or _G
 local IlLI0oIi0Oi,LOiLl00Ojji=string.byte,string.char
 local function IliliLO1II(IILiIj1iIjjlLj,jooL01O)
